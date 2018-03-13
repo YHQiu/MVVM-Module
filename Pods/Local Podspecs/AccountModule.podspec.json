@@ -1,0 +1,60 @@
+{
+  "name": "AccountModule",
+  "version": "0.1.0",
+  "summary": "A short description of AccountModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/develop@iFilmo.com/AccountModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "develop@iFilmo.com": "632244510@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/develop@iFilmo.com/AccountModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AccountModule/Classes/**/*.{h,m,mm,c}",
+  "resources": "AccountModule/Classes/**/*.{xib,storyboard,txt,plist,png,gif}",
+  "prefix_header_contents": [
+    "#import <YYKit.h>",
+    "#import <MacroModule.h>",
+    "#import <SDWebImage/UIImageView+WebCache.h>",
+    "#import <SVProgressHUD.h>",
+    "#import <AccountModule.h>",
+    "#import <ReactiveObjC.h>",
+    "#import <MJExtension.h>",
+    "#import <UIKit/UIKit.h>"
+  ],
+  "frameworks": "UIKit",
+  "dependencies": {
+    "MacroModule": [
+      "~> 0.1.0"
+    ],
+    "BusinessCoreModule": [
+      "~> 0.1.0"
+    ],
+    "YYKit": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "SVProgressHUD": [
+
+    ],
+    "ReactiveObjC": [
+
+    ],
+    "MJExtension": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+PODS:
+  - AccountModule (0.1.0):
+    - BusinessCoreModule (~> 0.1.0)
+    - MacroModule (~> 0.1.0)
+    - Masonry
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage
+    - SVProgressHUD
+    - YYKit
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - BusinessCoreModule (0.1.0):
+    - CoreModule (~> 0.1.0)
+    - MacroModule (~> 0.1.0)
+    - Masonry
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage
+    - SVProgressHUD
+    - YYKit
+  - CategoryModule (0.1.0):
+    - MacroModule (~> 0.1.0)
+    - Masonry
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage
+    - SVProgressHUD
+    - YYKit
+  - CoreModule (0.1.0):
+    - CategoryModule (~> 0.1.0)
+    - MacroModule (~> 0.1.0)
+    - Masonry
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage
+    - SVProgressHUD
+    - YYKit
+  - MacroModule (0.1.0)
+  - Masonry (1.1.0)
+  - MineModule (0.1.0):
+    - BusinessCoreModule (~> 0.1.0)
+    - MacroModule (~> 0.1.0)
+    - Masonry
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage
+    - SVProgressHUD
+    - YYKit
+  - MJExtension (3.0.13)
+  - ProductModule (0.1.0):
+    - BusinessCoreModule (~> 0.1.0)
+    - MacroModule (~> 0.1.0)
+    - Masonry
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage
+    - SVProgressHUD
+    - YYKit
+  - ReactiveObjC (3.1.0)
+  - RouteModule (0.1.0)
+  - SDWebImage (4.2.3):
+    - SDWebImage/Core (= 4.2.3)
+  - SDWebImage/Core (4.2.3)
+  - SVProgressHUD (2.2.2)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - AccountModule (from `./LocalPods/AccountModule`)
+  - AFNetworking
+  - BusinessCoreModule (from `./LocalPods/BusinessCoreModule`)
+  - CategoryModule (from `./LocalPods/CategoryModule`)
+  - CoreModule (from `./LocalPods/CoreModule`)
+  - MacroModule (from `./LocalPods/MacroModule`)
+  - MineModule (from `./LocalPods/MineModule`)
+  - ProductModule (from `./LocalPods/ProductModule`)
+  - RouteModule (from `./LocalPods/RouteModule`)
+  - SVProgressHUD
+
+EXTERNAL SOURCES:
+  AccountModule:
+    :path: ./LocalPods/AccountModule
+  BusinessCoreModule:
+    :path: ./LocalPods/BusinessCoreModule
+  CategoryModule:
+    :path: ./LocalPods/CategoryModule
+  CoreModule:
+    :path: ./LocalPods/CoreModule
+  MacroModule:
+    :path: ./LocalPods/MacroModule
+  MineModule:
+    :path: ./LocalPods/MineModule
+  ProductModule:
+    :path: ./LocalPods/ProductModule
+  RouteModule:
+    :path: ./LocalPods/RouteModule
+
+SPEC CHECKSUMS:
+  AccountModule: bf10e47745399ef794f15131f1aca7481af4dfac
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BusinessCoreModule: 9779294ff6e510de535e10e288728f4d8a671204
+  CategoryModule: 9128464c194f2e4143ff2eaea2c066fd6d4bd4c4
+  CoreModule: 05624fda034c1e9c562e91924fd60b8a5e15827c
+  MacroModule: 9375db3a4687df7c5a20b91db6669ee2511a059f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MineModule: b5af480f16c6135ad05830e1a17afe335f8c0175
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  ProductModule: 2f3d40b57790e93cef36a95a66bf580f79d5ffe3
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  RouteModule: ad84f2ae8c4bd6773d02d92127fc9f9516de056e
+  SDWebImage: 791bb72962b3492327ddcac4b1880bd1b5458431
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: db73cd916b8db5c5771cfe2df682599ce59b2f13
+
+COCOAPODS: 1.3.1

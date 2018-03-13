@@ -1,0 +1,1 @@
+../../../../LocalPods/MacroModule/MacroModule/Classes/WMMacroModule.h

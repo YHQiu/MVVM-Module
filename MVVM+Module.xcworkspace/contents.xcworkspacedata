@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:LocalPods/MacroModule/Example/MacroModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalPods/CoreModule/Example/CoreModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalPods/RouteModule/Example/RouteModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalPods/CategoryModule/Example/CategoryModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalPods/BusinessCoreModule/Example/BusinessCoreModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalPods/AccountModule/Example/AccountModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalPods/MineModule/Example/MineModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalPods/ProductModule/Example/ProductModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MVVM+Module.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,1 @@
+../../../../LocalPods/CategoryModule/CategoryModule/Classes/WMCategoryModule.h
